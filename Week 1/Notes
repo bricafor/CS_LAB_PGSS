@@ -7,5 +7,4 @@ For Google Colaboratory:
     + Code vs. + Text 
     Test: Can use special characters (eg. *) in order to add effects to the code.
 Github: Knit option -- requires packages. Used to convert code into PDFs.
-Important Reminders: 
-    Watch for careless syntax errors and inconsistent variable names. 
+**Important Reminder: Watch for careless syntax errors and inconsistent variable names.**
