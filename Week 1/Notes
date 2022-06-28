@@ -1,1 +1,11 @@
-
+6/28/22 
+For Google Colaboratory: 
+    Used Google Colaboratory in order to analyze data in the form of traditional tables, as well as histograms and box plots.
+    Help > Search Code Snippets
+    Code Snippets: Can read or import files. 
+    Sections: Helpful for organizing data, hiding certain lines of code. 
+    + Code vs. + Text 
+    Test: Can use special characters (eg. *) in order to add effects to the code.
+Github: Knit option -- requires packages. Used to convert code into PDFs.
+Important Reminders: 
+    Watch for careless syntax errors and inconsistent variable names. 
