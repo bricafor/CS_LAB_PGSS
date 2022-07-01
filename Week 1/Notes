@@ -8,3 +8,18 @@ For Google Colaboratory:
     Test: Can use special characters (eg. *) in order to add effects to the code.
 Github: Knit option -- requires packages. Used to convert code into PDFs.
 **Important Reminder: Watch for careless syntax errors and inconsistent variable names.**
+
+7/1/22
+British Seatbelt Study -- Practice with various types of graphs; data analysis. 
+Looked through various models (eg. boxplots, scatterplots) in order to determine the best way to analyze the data.  
+Used columns / categories to form predictions, new sets of data. 
+    FractionofDriversKilled = DriversKilled / Drivers 
+Linear Regression vs. Logistic Regression
+    Linear Regression: Continuous response
+    Logistic Regression: Categorical response
+    *Which method is the best to analyze specific categories of data?* 
+Reminders: 
+- Review downloading file content. 
+- Review MatPlotLib commands -- extremely helpful for generating graphs, analyzing data in various forms. 
+- Understand graphing capabilities of Python, R -- basic review, future concepts. 
+
