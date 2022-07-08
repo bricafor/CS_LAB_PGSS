@@ -12,5 +12,3 @@ After cleansing the text, split the text into "train" and "test" -- train a mode
   Prediction is ultimately used to see whether or not movies on the IMDB site had a negative or postiive review using specific keywords
   correlated with a each type of review. 
 Text: standard length, numeric representation -- transformed. 
-  
-      
