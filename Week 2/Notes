@@ -1,1 +1,5 @@
-7/8 
+7/8/22
+  Use transformers in order to convert blocks of text into points on a coordinate system. 
+    Each block of text has its own point on the coordinate system (x, y, and z), and the distance formula is used to convey the similarities 
+    between each piece of text. (The greater the calculated distance, the greater the differences between each piece of text.) 
+      Distance is a vector. 
