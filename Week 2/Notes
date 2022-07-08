@@ -12,3 +12,7 @@ After cleansing the text, split the text into "train" and "test" -- train a mode
   Prediction is ultimately used to see whether or not movies on the IMDB site had a negative or postiive review using specific keywords
   correlated with a each type of review. 
 Text: standard length, numeric representation -- transformed. 
+Used boxplots and the normal distribution in order to better understand probability in a dataset.
+  1.5 * IQR Rule -- useful for finding the probability of finding specific pieces of data in a dataset.
+  (For example, 1.5 * IQR rule can be used to find the probability of whether or not there will be a data point that is 2 standard 
+  deviations away from the mean.)
