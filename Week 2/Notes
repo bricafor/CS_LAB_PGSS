@@ -1,5 +1,16 @@
 7/8/22
-  Use transformers in order to convert blocks of text into points on a coordinate system. 
-    Each block of text has its own point on the coordinate system (x, y, and z), and the distance formula is used to convey the similarities 
-    between each piece of text. (The greater the calculated distance, the greater the differences between each piece of text.) 
-      Distance is a vector. 
+Use transformers in order to convert blocks of text into points on a coordinate system. 
+  Each block of text has its own point on the coordinate system (x, y, and z), and the distance formula is used to convey the similarities 
+  between each piece of text. (The greater the calculated distance, the greater the differences between each piece of text.) 
+     Distance is a vector. 
+Cleanse: 
+  1. Remove special lines, punctuation, HTML tags, etc. from text. 
+  2. Correct case (lowercase). 
+  3. Finish cleaning text. 
+After cleansing the text, split the text into "train" and "test" -- train a model, 2 characteristics. 
+  Save model, then load model for prediction. 
+  Prediction is ultimately used to see whether or not movies on the IMDB site had a negative or postiive review using specific keywords
+  correlated with a each type of review. 
+Text: standard length, numeric representation -- transformed. 
+  
+      
