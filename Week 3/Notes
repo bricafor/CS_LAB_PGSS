@@ -25,6 +25,7 @@ New Content
   - Using ++, Low Code 
   - Synthetic Data Generation 
     > Extrapolation necessary for a lack of samples. 
+    > First, use Exploratory Data Analysis (EDA) to view patterns within limited samples. 
   
 3. Telling Data Stories 
   - Web Apps 
