@@ -1,1 +1,30 @@
+7/12/22
+Review -- What have we learned so far? 
+1. Developer's Environment
+  - Languages: R, Python
+  - Scripting, MarkDowns / Notebooks 
+ 
+2. Knowledge Areas
+  - Tabular Data Analysis 
+    > EDA
+    > Linear Regression
+    > Linear Classification 
+  - Performance Analysis for ROC, AUC
 
+3. Basic Statistics 
+  - Distribution (Parametric Assumptions for Normal Distribution) 
+  - Statistical Testing 
+  
+New Content
+1. Knowledge Areas
+  - Image Analysis
+  - ID Signal Catalysis
+  - Unsupervised EJA 
+
+2. Developer Environment Skills 
+  - Using ++, Low Code 
+  - Synthetic Data Generation 
+  
+3. Telling Data Stories 
+  - Web Apps 
+  - Save and Load Models 
