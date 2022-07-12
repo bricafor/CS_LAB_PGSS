@@ -40,4 +40,5 @@ New Content
   
  Created a program that analyzed the class's perception of the color purple -- crowdsourcing. 
     Gender correlated with a student's perception of purple, which affects the RGB of the chosen color.
-    Modeled PurpleOrNot dataset as a function of R, G, B, and gender. (Each model had its own accuracy.) 
+    Modeled PurpleOrNot dataset as a function of R, G, B, and gender. 
+    Each model had its own accuracy -- basis for comparison.
