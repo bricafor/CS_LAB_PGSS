@@ -31,3 +31,13 @@ New Content
 3. Telling Data Stories 
   - Web Apps 
   - Save and Load Models 
+ 
+ Today's Focus: 
+ Synthetic Data Generation 
+    Extrapolation necessary for a lack of samples (synthetic oversampling). 
+    Use Exploratory Data Analysis (EDA) to view patterns within limited samples.
+    Extrapolation allows the researcher to finds patters and correlation between data.
+  
+ Created a program that analyzed the class's perception of the color purple -- crowdsourcing. 
+    Gender correlated with a student's perception of purple, which affects the RGB of the chosen color.
+    Created a variety of models that evaluated the dataset. (Each model had its own accuracy.) 
